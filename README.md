@@ -4,8 +4,8 @@
 <h2>Welcome to my Github profile</h2> <br>
 - 🔭 &nbsp;I'm currently working on database development 😉<br>
 - 🌱 &nbsp;I'm currently studying.<br>
-- 👨‍💻 &nbsp;How to reach me: <a href="https://www.instagram.com/danna.valencia_/">Danna Valencia</a> <br>
-- ⚡ &nbsp;Fun fact: I :heart: 😸s
+- 👨‍💻 &nbsp;How to reach me: <a href="www.linkedin.com/in/danna-valentina-valencia-garcia-3b0684222">Danna Valencia</a> <br>
+- ⚡ &nbsp;Fun fact: I :heart: dogs
 </div>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
